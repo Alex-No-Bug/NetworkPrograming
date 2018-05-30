@@ -1,0 +1,10 @@
+请按照步骤从1往后执行，遇到已经执行过的地方请跳过！
+myeclipse+sqlserver配置环境
+
+myeclipse10下载地址2018：
+https://pan.baidu.com/s/1yeyPCCrpijhG_pfusLIBdA
+sqlser2008r2下载
+http://pan.baidu.com/s/1hrU0vti
+
+
+

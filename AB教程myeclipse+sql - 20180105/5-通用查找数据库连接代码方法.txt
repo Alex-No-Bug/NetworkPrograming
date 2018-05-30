@@ -1,0 +1,12 @@
+Ctrl+H
+匹配规则:
+*
+搜索字符串：
+mysql数据库搜索字符串：
+com.mysql.jdbc.Driver
+sqlserver数据库搜索字符串：
+SQLServerDriver
+或
+com.microsoft.sqlserver.jdbc.SQLServerDriver
+
+点击search后在console查看搜索结果，双击搜索结果，跳转到搜索结果所在的文件位置，修改对应代码即可
